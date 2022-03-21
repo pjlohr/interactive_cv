@@ -4,9 +4,9 @@ avatar_filename: avatar.png
 bio: My research interests include printable electronics, computational
   materials, and perovskite.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Materials Science
+  - Printable Electronics
+  - Perovskite Photovoltaics
 social:
   - icon: envelope
     icon_pack: fas
@@ -36,9 +36,12 @@ highlight_name: true
 title: Patrick Lohr
 email: ""
 ---
+Patrick J. Lohr completed his B.S. in Chemical Engineering at the University of Arizona in 2018 before joining the graduate program in Chemical Engineering in 2019. He worked with Dr Kim Ogden and the Sustainable Bioeconomy for Arid Regions (SBAR) project on the development of a predictive crop model for guayule biomass and rubber yield. As a Ph.D. student in the Department of Chemical and Environmental Engineering at the University of Arizona, Patrick is interested in using computational tools to better understand molecular interactions in perovskite precursor solutions and how these interactions affect crystallite growth and film formation.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+Patrick is a winner of the prestigious University Fellowship, which promotes engagement in outreach through mentorship and community engagement.
+
+When not working, he enjoys traveling, hiking, reading, and playing drums and guitar.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
