@@ -1,6 +1,6 @@
 ---
-title: Patrick Lohr
 role: Graduate Research Assistant
+avatar_filename: img_8104.png
 bio: My research interests include printable electronics, computational
   materials, and perovskite.
 interests:
@@ -31,9 +31,10 @@ education:
     - course: BSc in Chemical Engineering
       institution: The University of Arizona
       year: 2019
-email: ""
 superuser: true
 highlight_name: true
+title: Patrick Lohr
+email: ""
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
