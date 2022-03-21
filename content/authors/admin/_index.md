@@ -1,7 +1,8 @@
 ---
 title: Patrick Lohr
 role: Graduate Research Assistant
-bio: My research interests include perovskite.
+bio: My research interests include printable electronics, computational
+  materials, and perovskite.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
