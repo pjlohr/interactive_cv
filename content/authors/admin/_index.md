@@ -1,6 +1,6 @@
 ---
 role: Graduate Research Assistant
-avatar_filename: img_8104.png
+avatar_filename: avatar.png
 bio: My research interests include printable electronics, computational
   materials, and perovskite.
 interests:
