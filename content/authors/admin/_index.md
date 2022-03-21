@@ -27,7 +27,7 @@ education:
   courses:
     - course: PhD in Chemical Engineering
       institution: The University of Arizona
-      year: 2014
+      year: 2024
     - course: BSc in Chemical Engineering
       institution: The University of Arizona
       year: 2019
