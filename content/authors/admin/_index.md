@@ -27,10 +27,10 @@ education:
   courses:
     - course: PhD in Chemical Engineering
       institution: The University of Arizona
-      year: 2010
+      year: 2014
     - course: BSc in Chemical Engineering
       institution: The University of Arizona
-      year: 2008
+      year: 2019
 email: ""
 superuser: true
 highlight_name: true
