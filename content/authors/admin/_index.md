@@ -19,7 +19,7 @@ social:
     link: https://github.com/pjlohr
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/patrick-lohr
+    link: https://www.linkedin.com/in/patrick-lohr/
 organizations:
   - name: The University of Arizona - Printz Lab
     url: https://www.printzlab.org
