@@ -36,7 +36,7 @@ highlight_name: true
 title: Patrick Lohr
 email: ""
 ---
-Patrick J. Lohr completed his B.S. in Chemical Engineering at the University of Arizona in 2018 before joining the graduate program in Chemical Engineering in 2019. He worked with Dr Kim Ogden and the Sustainable Bioeconomy for Arid Regions (SBAR) project on the development of a predictive crop model for guayule biomass and rubber yield. As a Ph.D. student in the Department of Chemical and Environmental Engineering at the University of Arizona, Patrick is interested in using computational tools to better understand molecular interactions in perovskite precursor solutions and how these interactions affect crystallite growth and film formation.
+Patrick J. Lohr completed his B.S. in Chemical Engineering at the University of Arizona in 2018 before beginning his graduate program in Chemical Engineering in 2019. As a Ph.D. student in the Department of Chemical and Environmental Engineering at the University of Arizona, Patrick is interested in the use of computational tools like Kohn-Sham density functional theory (DFT) and classical molecular dynamics to characterize atomic-scale interactions between organic additives and metal halide perovskite semiconductors. Through the application of these techniques, Patrick aims to reveal key insights into nucleation, defect passivation, and quasi-2D heterostructure formation in perovskite films.
 
 Patrick is a winner of the prestigious University Fellowship, which promotes engagement in outreach through mentorship and community engagement.
 
